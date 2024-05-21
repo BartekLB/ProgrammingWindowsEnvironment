@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DrzewoAVL/1.0.0": {
+        "runtime": {
+          "DrzewoAVL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DrzewoAVL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

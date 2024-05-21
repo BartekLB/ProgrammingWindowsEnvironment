@@ -1,0 +1,14 @@
+C:\Users\barto\Desktop\C# Do zrobienia\8\DrzewoAVL\DrzewoAVL\bin\Debug\net8.0\DrzewoAVL.exe
+C:\Users\barto\Desktop\C# Do zrobienia\8\DrzewoAVL\DrzewoAVL\bin\Debug\net8.0\DrzewoAVL.deps.json
+C:\Users\barto\Desktop\C# Do zrobienia\8\DrzewoAVL\DrzewoAVL\bin\Debug\net8.0\DrzewoAVL.runtimeconfig.json
+C:\Users\barto\Desktop\C# Do zrobienia\8\DrzewoAVL\DrzewoAVL\bin\Debug\net8.0\DrzewoAVL.dll
+C:\Users\barto\Desktop\C# Do zrobienia\8\DrzewoAVL\DrzewoAVL\bin\Debug\net8.0\DrzewoAVL.pdb
+C:\Users\barto\Desktop\C# Do zrobienia\8\DrzewoAVL\DrzewoAVL\obj\Debug\net8.0\DrzewoAVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto\Desktop\C# Do zrobienia\8\DrzewoAVL\DrzewoAVL\obj\Debug\net8.0\DrzewoAVL.AssemblyInfoInputs.cache
+C:\Users\barto\Desktop\C# Do zrobienia\8\DrzewoAVL\DrzewoAVL\obj\Debug\net8.0\DrzewoAVL.AssemblyInfo.cs
+C:\Users\barto\Desktop\C# Do zrobienia\8\DrzewoAVL\DrzewoAVL\obj\Debug\net8.0\DrzewoAVL.csproj.CoreCompileInputs.cache
+C:\Users\barto\Desktop\C# Do zrobienia\8\DrzewoAVL\DrzewoAVL\obj\Debug\net8.0\DrzewoAVL.dll
+C:\Users\barto\Desktop\C# Do zrobienia\8\DrzewoAVL\DrzewoAVL\obj\Debug\net8.0\refint\DrzewoAVL.dll
+C:\Users\barto\Desktop\C# Do zrobienia\8\DrzewoAVL\DrzewoAVL\obj\Debug\net8.0\DrzewoAVL.pdb
+C:\Users\barto\Desktop\C# Do zrobienia\8\DrzewoAVL\DrzewoAVL\obj\Debug\net8.0\DrzewoAVL.genruntimeconfig.cache
+C:\Users\barto\Desktop\C# Do zrobienia\8\DrzewoAVL\DrzewoAVL\obj\Debug\net8.0\ref\DrzewoAVL.dll

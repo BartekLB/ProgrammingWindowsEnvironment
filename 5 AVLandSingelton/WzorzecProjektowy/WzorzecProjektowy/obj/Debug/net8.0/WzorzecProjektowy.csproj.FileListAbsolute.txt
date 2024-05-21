@@ -1,0 +1,14 @@
+C:\Users\barto\Desktop\C# Do zrobienia\8\WzorzecProjektowy\WzorzecProjektowy\bin\Debug\net8.0\WzorzecProjektowy.exe
+C:\Users\barto\Desktop\C# Do zrobienia\8\WzorzecProjektowy\WzorzecProjektowy\bin\Debug\net8.0\WzorzecProjektowy.deps.json
+C:\Users\barto\Desktop\C# Do zrobienia\8\WzorzecProjektowy\WzorzecProjektowy\bin\Debug\net8.0\WzorzecProjektowy.runtimeconfig.json
+C:\Users\barto\Desktop\C# Do zrobienia\8\WzorzecProjektowy\WzorzecProjektowy\bin\Debug\net8.0\WzorzecProjektowy.dll
+C:\Users\barto\Desktop\C# Do zrobienia\8\WzorzecProjektowy\WzorzecProjektowy\bin\Debug\net8.0\WzorzecProjektowy.pdb
+C:\Users\barto\Desktop\C# Do zrobienia\8\WzorzecProjektowy\WzorzecProjektowy\obj\Debug\net8.0\WzorzecProjektowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto\Desktop\C# Do zrobienia\8\WzorzecProjektowy\WzorzecProjektowy\obj\Debug\net8.0\WzorzecProjektowy.AssemblyInfoInputs.cache
+C:\Users\barto\Desktop\C# Do zrobienia\8\WzorzecProjektowy\WzorzecProjektowy\obj\Debug\net8.0\WzorzecProjektowy.AssemblyInfo.cs
+C:\Users\barto\Desktop\C# Do zrobienia\8\WzorzecProjektowy\WzorzecProjektowy\obj\Debug\net8.0\WzorzecProjektowy.csproj.CoreCompileInputs.cache
+C:\Users\barto\Desktop\C# Do zrobienia\8\WzorzecProjektowy\WzorzecProjektowy\obj\Debug\net8.0\WzorzecProjektowy.dll
+C:\Users\barto\Desktop\C# Do zrobienia\8\WzorzecProjektowy\WzorzecProjektowy\obj\Debug\net8.0\refint\WzorzecProjektowy.dll
+C:\Users\barto\Desktop\C# Do zrobienia\8\WzorzecProjektowy\WzorzecProjektowy\obj\Debug\net8.0\WzorzecProjektowy.pdb
+C:\Users\barto\Desktop\C# Do zrobienia\8\WzorzecProjektowy\WzorzecProjektowy\obj\Debug\net8.0\WzorzecProjektowy.genruntimeconfig.cache
+C:\Users\barto\Desktop\C# Do zrobienia\8\WzorzecProjektowy\WzorzecProjektowy\obj\Debug\net8.0\ref\WzorzecProjektowy.dll
