@@ -1,0 +1,14 @@
+C:\Users\barto\Desktop\8\TaskSchedulerApp\TaskSchedulerApp\bin\Debug\net8.0\TaskSchedulerApp.exe
+C:\Users\barto\Desktop\8\TaskSchedulerApp\TaskSchedulerApp\bin\Debug\net8.0\TaskSchedulerApp.deps.json
+C:\Users\barto\Desktop\8\TaskSchedulerApp\TaskSchedulerApp\bin\Debug\net8.0\TaskSchedulerApp.runtimeconfig.json
+C:\Users\barto\Desktop\8\TaskSchedulerApp\TaskSchedulerApp\bin\Debug\net8.0\TaskSchedulerApp.dll
+C:\Users\barto\Desktop\8\TaskSchedulerApp\TaskSchedulerApp\bin\Debug\net8.0\TaskSchedulerApp.pdb
+C:\Users\barto\Desktop\8\TaskSchedulerApp\TaskSchedulerApp\obj\Debug\net8.0\TaskSchedulerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto\Desktop\8\TaskSchedulerApp\TaskSchedulerApp\obj\Debug\net8.0\TaskSchedulerApp.AssemblyInfoInputs.cache
+C:\Users\barto\Desktop\8\TaskSchedulerApp\TaskSchedulerApp\obj\Debug\net8.0\TaskSchedulerApp.AssemblyInfo.cs
+C:\Users\barto\Desktop\8\TaskSchedulerApp\TaskSchedulerApp\obj\Debug\net8.0\TaskSchedulerApp.csproj.CoreCompileInputs.cache
+C:\Users\barto\Desktop\8\TaskSchedulerApp\TaskSchedulerApp\obj\Debug\net8.0\TaskSchedulerApp.dll
+C:\Users\barto\Desktop\8\TaskSchedulerApp\TaskSchedulerApp\obj\Debug\net8.0\refint\TaskSchedulerApp.dll
+C:\Users\barto\Desktop\8\TaskSchedulerApp\TaskSchedulerApp\obj\Debug\net8.0\TaskSchedulerApp.pdb
+C:\Users\barto\Desktop\8\TaskSchedulerApp\TaskSchedulerApp\obj\Debug\net8.0\TaskSchedulerApp.genruntimeconfig.cache
+C:\Users\barto\Desktop\8\TaskSchedulerApp\TaskSchedulerApp\obj\Debug\net8.0\ref\TaskSchedulerApp.dll

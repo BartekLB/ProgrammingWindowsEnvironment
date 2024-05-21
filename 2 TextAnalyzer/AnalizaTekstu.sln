@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalizaTekstu", "AnalizaTekstu\AnalizaTekstu.csproj", "{AF7A3CB7-4E15-4120-A67E-5CAF2D34A9A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF7A3CB7-4E15-4120-A67E-5CAF2D34A9A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7A3CB7-4E15-4120-A67E-5CAF2D34A9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7A3CB7-4E15-4120-A67E-5CAF2D34A9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7A3CB7-4E15-4120-A67E-5CAF2D34A9A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F14B36A-BE2A-40D9-9CA6-3B0E927DB7D6}
+	EndGlobalSection
+EndGlobal

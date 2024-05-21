@@ -1,0 +1,29 @@
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\bin\Debug\net7.0\ZasobyLudzkie.exe
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\bin\Debug\net7.0\ZasobyLudzkie.deps.json
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\bin\Debug\net7.0\ZasobyLudzkie.runtimeconfig.json
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\bin\Debug\net7.0\ZasobyLudzkie.dll
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\bin\Debug\net7.0\ZasobyLudzkie.pdb
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.csproj.AssemblyReference.cache
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.AssemblyInfoInputs.cache
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.AssemblyInfo.cs
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.csproj.CoreCompileInputs.cache
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.dll
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\refint\ZasobyLudzkie.dll
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.pdb
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.genruntimeconfig.cache
+C:\Users\HEROB\source\repos\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ref\ZasobyLudzkie.dll
+C:\Users\barto\Desktop\Uczelnia\materiały\MojDyskSem4\PROGRAMOWANIE WINDOWS\SPRAWOZDANIE2\Lab4\ZasobyLudzkie\ZasobyLudzkie\bin\Debug\net7.0\ZasobyLudzkie.exe
+C:\Users\barto\Desktop\Uczelnia\materiały\MojDyskSem4\PROGRAMOWANIE WINDOWS\SPRAWOZDANIE2\Lab4\ZasobyLudzkie\ZasobyLudzkie\bin\Debug\net7.0\ZasobyLudzkie.deps.json
+C:\Users\barto\Desktop\Uczelnia\materiały\MojDyskSem4\PROGRAMOWANIE WINDOWS\SPRAWOZDANIE2\Lab4\ZasobyLudzkie\ZasobyLudzkie\bin\Debug\net7.0\ZasobyLudzkie.runtimeconfig.json
+C:\Users\barto\Desktop\Uczelnia\materiały\MojDyskSem4\PROGRAMOWANIE WINDOWS\SPRAWOZDANIE2\Lab4\ZasobyLudzkie\ZasobyLudzkie\bin\Debug\net7.0\ZasobyLudzkie.dll
+C:\Users\barto\Desktop\Uczelnia\materiały\MojDyskSem4\PROGRAMOWANIE WINDOWS\SPRAWOZDANIE2\Lab4\ZasobyLudzkie\ZasobyLudzkie\bin\Debug\net7.0\ZasobyLudzkie.pdb
+C:\Users\barto\Desktop\Uczelnia\materiały\MojDyskSem4\PROGRAMOWANIE WINDOWS\SPRAWOZDANIE2\Lab4\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto\Desktop\Uczelnia\materiały\MojDyskSem4\PROGRAMOWANIE WINDOWS\SPRAWOZDANIE2\Lab4\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.AssemblyInfoInputs.cache
+C:\Users\barto\Desktop\Uczelnia\materiały\MojDyskSem4\PROGRAMOWANIE WINDOWS\SPRAWOZDANIE2\Lab4\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.AssemblyInfo.cs
+C:\Users\barto\Desktop\Uczelnia\materiały\MojDyskSem4\PROGRAMOWANIE WINDOWS\SPRAWOZDANIE2\Lab4\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.csproj.CoreCompileInputs.cache
+C:\Users\barto\Desktop\Uczelnia\materiały\MojDyskSem4\PROGRAMOWANIE WINDOWS\SPRAWOZDANIE2\Lab4\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.dll
+C:\Users\barto\Desktop\Uczelnia\materiały\MojDyskSem4\PROGRAMOWANIE WINDOWS\SPRAWOZDANIE2\Lab4\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\refint\ZasobyLudzkie.dll
+C:\Users\barto\Desktop\Uczelnia\materiały\MojDyskSem4\PROGRAMOWANIE WINDOWS\SPRAWOZDANIE2\Lab4\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.pdb
+C:\Users\barto\Desktop\Uczelnia\materiały\MojDyskSem4\PROGRAMOWANIE WINDOWS\SPRAWOZDANIE2\Lab4\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ZasobyLudzkie.genruntimeconfig.cache
+C:\Users\barto\Desktop\Uczelnia\materiały\MojDyskSem4\PROGRAMOWANIE WINDOWS\SPRAWOZDANIE2\Lab4\ZasobyLudzkie\ZasobyLudzkie\obj\Debug\net7.0\ref\ZasobyLudzkie.dll

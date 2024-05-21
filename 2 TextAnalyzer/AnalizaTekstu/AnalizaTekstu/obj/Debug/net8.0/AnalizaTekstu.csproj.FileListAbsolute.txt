@@ -1,0 +1,28 @@
+C:\Users\barto\Desktop\4\moje\AnalizaTekstu\AnalizaTekstu\bin\Debug\net8.0\AnalizaTekstu.exe
+C:\Users\barto\Desktop\4\moje\AnalizaTekstu\AnalizaTekstu\bin\Debug\net8.0\AnalizaTekstu.deps.json
+C:\Users\barto\Desktop\4\moje\AnalizaTekstu\AnalizaTekstu\bin\Debug\net8.0\AnalizaTekstu.runtimeconfig.json
+C:\Users\barto\Desktop\4\moje\AnalizaTekstu\AnalizaTekstu\bin\Debug\net8.0\AnalizaTekstu.dll
+C:\Users\barto\Desktop\4\moje\AnalizaTekstu\AnalizaTekstu\bin\Debug\net8.0\AnalizaTekstu.pdb
+C:\Users\barto\Desktop\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\AnalizaTekstu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto\Desktop\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\AnalizaTekstu.AssemblyInfoInputs.cache
+C:\Users\barto\Desktop\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\AnalizaTekstu.AssemblyInfo.cs
+C:\Users\barto\Desktop\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\AnalizaTekstu.csproj.CoreCompileInputs.cache
+C:\Users\barto\Desktop\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\AnalizaTekstu.dll
+C:\Users\barto\Desktop\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\refint\AnalizaTekstu.dll
+C:\Users\barto\Desktop\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\AnalizaTekstu.pdb
+C:\Users\barto\Desktop\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\AnalizaTekstu.genruntimeconfig.cache
+C:\Users\barto\Desktop\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\ref\AnalizaTekstu.dll
+C:\Users\barto\Desktop\C# Do zrobienia\4\moje\AnalizaTekstu\AnalizaTekstu\bin\Debug\net8.0\AnalizaTekstu.exe
+C:\Users\barto\Desktop\C# Do zrobienia\4\moje\AnalizaTekstu\AnalizaTekstu\bin\Debug\net8.0\AnalizaTekstu.deps.json
+C:\Users\barto\Desktop\C# Do zrobienia\4\moje\AnalizaTekstu\AnalizaTekstu\bin\Debug\net8.0\AnalizaTekstu.runtimeconfig.json
+C:\Users\barto\Desktop\C# Do zrobienia\4\moje\AnalizaTekstu\AnalizaTekstu\bin\Debug\net8.0\AnalizaTekstu.dll
+C:\Users\barto\Desktop\C# Do zrobienia\4\moje\AnalizaTekstu\AnalizaTekstu\bin\Debug\net8.0\AnalizaTekstu.pdb
+C:\Users\barto\Desktop\C# Do zrobienia\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\AnalizaTekstu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto\Desktop\C# Do zrobienia\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\AnalizaTekstu.AssemblyInfoInputs.cache
+C:\Users\barto\Desktop\C# Do zrobienia\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\AnalizaTekstu.AssemblyInfo.cs
+C:\Users\barto\Desktop\C# Do zrobienia\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\AnalizaTekstu.csproj.CoreCompileInputs.cache
+C:\Users\barto\Desktop\C# Do zrobienia\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\AnalizaTekstu.dll
+C:\Users\barto\Desktop\C# Do zrobienia\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\refint\AnalizaTekstu.dll
+C:\Users\barto\Desktop\C# Do zrobienia\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\AnalizaTekstu.pdb
+C:\Users\barto\Desktop\C# Do zrobienia\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\AnalizaTekstu.genruntimeconfig.cache
+C:\Users\barto\Desktop\C# Do zrobienia\4\moje\AnalizaTekstu\AnalizaTekstu\obj\Debug\net8.0\ref\AnalizaTekstu.dll
