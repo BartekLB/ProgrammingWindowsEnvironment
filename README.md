@@ -1,6 +1,6 @@
-# 📚 Project Repository Overview
+# 📚 Repository Overview
 
-Welcome to our GitHub repository! This repository includes several C# projects demonstrating different programming concepts.
+This repository contains several C# projects demonstrating various programming concepts. Implemented as part of the Windows programming labs.
 
 ## 📅 Task Scheduler App
 
