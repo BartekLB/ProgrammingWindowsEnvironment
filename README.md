@@ -15,11 +15,6 @@ A console app to schedule and execute one-time and recurring tasks.
 - **Task details**: View specific task details.
 - **Manual trigger**: Execute a task manually.
 
-### Instructions
-1. **Compile**: `dotnet build`
-2. **Run**: Execute the compiled file.
-3. **Menu**: Use the keyboard to navigate.
-
 ---
 
 ## 📝 String Library
