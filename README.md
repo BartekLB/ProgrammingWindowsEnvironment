@@ -51,10 +51,6 @@ Manage a library database of books and magazines.
 - **Display Database**: Show all items.
 - **Save/Load Database**: Save to or load from a text file.
 
-## Instructions
-1. **Run**: Execute the main program.
-2. **Choose an option**: Follow on-screen instructions.
-
 ---
 
 # 🌳 AVL Tree and Singleton Pattern
